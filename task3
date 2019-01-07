@@ -1,0 +1,13 @@
+task3 自编函数——QQ图和shaprio-wilk检验正态分布
+
+图示法相比其他方法都更加直观、简单，从图中可以直接进行初步判断，但是这种方法的效率不是很高，它所提供的信息只是正态性检验的重要信息补充。常见的在计算机软件中使用的有shapiro-wilk检验和Lilliefor检验。
+R语言stats包中的shaprio.test函数就是使用shapiro-wilk检验的方法。
+
+自编函数实现的功能：
+1、画出qq图和密度估计曲线的图示
+2、shaprio.test（）求出W值和p值
+3、图示法判断是否符合正态分布
+4、报告结果
+
+视频链接：https://pan.baidu.com/s/1Oiqm4lCrICU-7fnwVWSVSA 
+提取码：wdoc 
