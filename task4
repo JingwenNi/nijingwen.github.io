@@ -1,0 +1,7 @@
+task5 用图示法解释统计模型
+
+在视频中使用了三维图形解释了一元线性回归模型，将ym解释的y的变异性，x解释的y的变异性以及epsilon解释
+的y的变异性一一分解在三维立方体中。使用到的关键函数有fitted(),lm(),arrows3D()等。
+
+视频链接：https://pan.baidu.com/s/1RJPeEoBc1JS7PnrTzZGXoA 
+提取码：rvm7 
